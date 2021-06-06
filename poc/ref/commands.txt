@@ -1,0 +1,6 @@
+http://download.savannah.gnu.org/releases/qemu/
+
+nasm src/boot_sect.asm -f bin -o build/boot_sect.bin
+
+
+https://nithinbekal.com/notes/os/
